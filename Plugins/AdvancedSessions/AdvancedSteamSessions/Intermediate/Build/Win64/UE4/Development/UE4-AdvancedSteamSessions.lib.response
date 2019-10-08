@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"C:\Users\pc01\Documents\Unreal Projects\GhostHunt\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\pc01\Documents\Unreal Projects\GhostHunt\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"C:\Users\pc01\Documents\Unreal Projects\GhostHunt\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\PCLaunch.rc.res"
+/OUT:"C:\Users\pc01\Documents\Unreal Projects\GhostHunt\Plugins\AdvancedSessions\AdvancedSteamSessions\Binaries\Win64\UE4-AdvancedSteamSessions.lib"

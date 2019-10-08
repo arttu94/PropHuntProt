@@ -1,0 +1,19 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "CustomMap",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Me",
+	"CreatedByURL" : "",
+	"EngineVersion" : "4.19.0",
+	"Description" : "CustomMap",
+	"Category" : "User Map",
+	"EnabledByDefault" : true,
+ 
+	"Modules" :
+	[
+	],
+ 
+	"CanContainContent" : true
+}
